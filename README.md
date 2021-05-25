@@ -6,7 +6,7 @@ Markdown: created using tkinter and pygame with database. See instruction.docx f
  * [Charles Dominic Narag](https://github.com/Dmncnrg) (Back-end and Database)
  * [Michael John Paje](https://github.com/rinzuno) (Back-end)
  
-<h3> Instructions </h3>
+ Markup: <h3> Instructions </h3>
 Install the following library:
 * Pygame (pip install pygame)
 * Pillow (pip install PIL)
