@@ -5,9 +5,6 @@ Markdown: created using tkinter and pygame with database. See instruction.docx f
  * [Camille Monis](https://github.com/camsmy) (Front-end and Back-end)
  * [Charles Dominic Narag](https://github.com/Dmncnrg) (Back-end and Database)
  * [Michael John Paje](https://github.com/rinzuno) (Back-end)
- * Kyle Garcia
- * Trisha Ghael Garcia
- * Ron Edward Poon
  
 <h3> Instructions </h3>
 Install the following library:
